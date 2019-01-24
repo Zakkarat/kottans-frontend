@@ -18,3 +18,8 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
   <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_html_css_intro/scrren.PNG" width="700px" />
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_html_css_intro/screen.PNG" width="600px" />
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_html_css_intro/scr.PNG" width="700px" />
+
+## Responsive Web Design
+
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_responsive_web_design/scr1.PNG" width="600px" />
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_responsive_web_design/scr.PNG" width="700px" />
