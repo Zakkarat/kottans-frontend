@@ -23,3 +23,8 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_responsive_web_design/scr1.PNG" width="600px" />
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_responsive_web_design/scr.PNG" width="700px" />
+
+## JS Basics
+
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_basics/scr1.PNG" width="600px" />
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_basics/scr.PNG" width="700px" />
