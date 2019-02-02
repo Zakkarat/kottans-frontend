@@ -33,3 +33,7 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_dom/scr1.PNG" width="600px" />
 <img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_dom/scr.PNG" width="700px" />
+
+### DOM-practice-task
+[Demo](https://zakkarat.github.io/DOM_TASK/index.html) |
+[Code base](https://github.com/Zakkarat/DOM_TASK)
