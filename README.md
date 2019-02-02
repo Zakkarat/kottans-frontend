@@ -31,5 +31,5 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 
 ## DOM
 
-<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_DOM/scr1.PNG" width="600px" />
-<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_DOM/scr.PNG" width="700px" />
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_dom/scr1.PNG" width="600px" />
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_dom/scr.PNG" width="700px" />
