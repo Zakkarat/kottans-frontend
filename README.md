@@ -37,3 +37,8 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 ### DOM-practice-task
 [Demo](https://zakkarat.github.io/DOM_TASK/index.html) |
 [Code base](https://github.com/Zakkarat/DOM_TASK)
+
+### Tiny JS world
+[Demo](https://zakkarat.github.io/a-tiny-JS-world/index.html) |
+[Code base](https://github.com/Zakkarat/a-tiny-JS-world)
+
