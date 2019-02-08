@@ -42,3 +42,10 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 [Demo](https://zakkarat.github.io/a-tiny-JS-world/index.html) |
 [Code base](https://github.com/Zakkarat/a-tiny-JS-world)
 
+## Object Oriented JS
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_oop/scr1.PNG" width="600px" />
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_js_oop/scr.PNG" width="700px" />
+
+### Task Frogger
+[Demo](https://zakkarat.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/Zakkarat/frontend-nanodegree-arcade-game)
