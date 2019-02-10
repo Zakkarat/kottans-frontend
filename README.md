@@ -49,3 +49,7 @@ I've tried github before, but git was absolutely new to me. Now, I have understa
 ### Task Frogger
 [Demo](https://zakkarat.github.io/frontend-nanodegree-arcade-game/) |
 [Code base](https://github.com/Zakkarat/frontend-nanodegree-arcade-game)
+
+## Offline Web Applications
+<img src="https://github.com/Zakkarat/kottans-frontend/blob/master/task_offline_web_app/scr.PNG" width="600px" />
+
